@@ -10,4 +10,4 @@
 2. Affichez à l'utilisateur l'un des messages suivants : 
 - "Nombre compris entre 0 et 50"
 - "Nombre compris entre 51 et 75"
-- "Nombre Supérieur à 75"
+- "Nombre supérieur à 75 ou inférieur à 0"
