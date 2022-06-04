@@ -1,6 +1,7 @@
 ## Exercice 9 : Equation de second degré
 
-### Prérequis
+### Modalité
+
 - Utilisez le logiciel AlgoBox
 
 ### Programme à réaliser

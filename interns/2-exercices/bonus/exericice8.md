@@ -1,6 +1,7 @@
 ## Exercice 8 : Nombre de voyelles
 
-### Prérequis
+### Modalité
+
 - Utilisez le logiciel AlgoBox
 
 ### Programme à réaliser

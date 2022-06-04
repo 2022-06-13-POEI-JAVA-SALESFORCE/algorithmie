@@ -1,6 +1,6 @@
 ## Exercice 3 : opérateurs mathématiques
 
-### Prérequis
+### Modalité
 
 - Utilisez le logiciel AlgoBox
 

@@ -1,6 +1,6 @@
 ## Exercice 2 : opérateurs de comparaison
 
-### Prérequis
+### Modalités
 
 - Utilisez le logiciel AlgoBox
 - Copiez l'intégralité du programme effectué dans l'exercice 1

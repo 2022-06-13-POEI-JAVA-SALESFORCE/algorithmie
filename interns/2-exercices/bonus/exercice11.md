@@ -1,6 +1,7 @@
 ## Exercice 11 : Table de multiplication
 
-### Prérequis
+### Modalité
+
 - Utilisez le logiciel AlgoBox
 
 ### Programme à réaliser

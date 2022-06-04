@@ -1,6 +1,6 @@
 ## Exercice 4 : opérateurs logiques
 
-### Prérequis
+### Modalité
 
 - Utilisez le logiciel AlgoBox
 

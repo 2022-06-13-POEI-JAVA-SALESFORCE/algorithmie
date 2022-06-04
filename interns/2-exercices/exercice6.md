@@ -1,6 +1,6 @@
 ## Exercice 6 : structures itératives
 
-### Prérequis
+### Modalité
 
 - Utilisez le logiciel AlgoBox
 

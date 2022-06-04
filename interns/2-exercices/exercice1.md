@@ -1,6 +1,7 @@
 ## Exercice 1 : variables, types et concaténation
 
-### Prérequis
+### Modalité
+
 - Utilisez le logiciel AlgoBox
 
 ### Programme à réaliser

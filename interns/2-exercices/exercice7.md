@@ -1,6 +1,6 @@
 ## Exercice 7 : Fonctions
 
-### Prérequis
+### Modalités
 
 - Utilisez le logiciel AlgoBox
 - Utilisez une fonction
