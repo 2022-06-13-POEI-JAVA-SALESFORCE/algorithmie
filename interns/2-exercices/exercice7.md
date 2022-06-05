@@ -1,19 +1,16 @@
-## Exercice 7 : Fonctions
+## Exercice 7 : fonctions, boucles, tableaux, opérateurs d'incrémentation
 
 ### Modalités
 
-- Utilisez le logiciel AlgoBox
-- Utilisez une fonction
-- Utilisez des données fictives pour ne pas perdre de temps
+- Utilisez le logiciel AlgoBox, le logiciel atteint ses limites pour l'utilisation des fonctions dans la déclaration de variables locales à d'une fonction.
+Ecrivez votre algortihme sans vous souciez de l'éxécution du programme et du résultat.
+Lorsque nous arboderons Javascript, vous pourrez réecrire votre algorithme avec ce langage de programmation et vérifier le résultat.
+- Utilisez obligatoirement une fonction
+- Utilisez obligatoirement un tableau
 
 #### Contexte
-
-Vous avez une classe de 12 apprentis, vous devez récolter les informations suivantes pour chaque apprenti :
-
-- Nom
-- Prénom
-- Adresse email
+Calculer la moyenne des notes saisies.
 
 #### Programme à réaliser
 
-1. Votre programme doit demander et afficher exactement 12 fois le nom, prénom et adresse email des apprentis
+1. Saisissez les notes un par un, lorsque l'utilisateur saisit la note -1, la saisie des notes prend fin et votre programme affiche le nombre total de notes (ie nombre d'étudiant) et la moyenne de la classe.

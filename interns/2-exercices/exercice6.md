@@ -13,4 +13,4 @@
 ##### Exemple du résultat attendu
 
 L'utilisateur saisit 95
-Le programme doit afficher " 95 96 97 98 99 100"
+Le programme doit afficher "95 96 97 98 99 100"
