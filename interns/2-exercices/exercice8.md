@@ -8,16 +8,12 @@
 
 #### Modélisation à réaliser
 
-1. Modélisez le système suivant :
+Modélisez la partie commande d'un site e-commerce.
 
-Un concessionnaire de véhicule possède des véhicules thermiques et électriques.
-Ces véhicules sont :
-- motos à 3 trois roues
-- motos à 2 roues
-- citadines
-- 4x4
-- voitures utilitaires
-
-2. Modélisez le système suivant :
-
-Un restaurant propose 3 services le matin, midi et le soir avec des menus composés d'entrées, plats, desserts et boissons.
+1. Un client effectue une commande d'un ou plusieurs produits.
+2. Chaque produit a une référence unique, une description, un prix et une quantité.
+3. Le stock des produits est géré par une entrêpot qui ajoute ou retire les quantités.
+4. Un gestionnaire de commande prépare et expédie les commandes.
+5. Chaque personne qui intéragie avec l'application s'authentifie au préalable à l'aide de son nom, numéro de téléphone et une adresse e-mail.
+6. Chaque catégorie possède une référence et un nom.
+7. Les commandes, les stocks, les produits et les catégories peuvent être ajoutés et supprimés.
