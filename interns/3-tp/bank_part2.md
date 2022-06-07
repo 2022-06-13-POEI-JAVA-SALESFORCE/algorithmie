@@ -1,11 +1,11 @@
-# Travail collaboratif sur les algorithmes
+# TP : Système bancaire
 
 ## Objectifs du TP
 
 1. Travailler à plusieurs sur le même dépôt git
 2. Résoudre des algorithmes pour répondre à un problème métier
 3. Optimisez le code
-4. Faire du code revue
+4. Faire du *code review* (revue de code)
 5. Résoudre des conflits sur un dépôt git
 
 ## Modalités
@@ -18,7 +18,7 @@
 - Vous êtes une équipe de 3 développeurs et vous travaillez pour une nouvelle banque en ligne la GTM Bank.
 - Votre employeur souhaite créer un programme qui permet d'effectuer des opérations bancaires.
 - Certains clients auront droit à un découvert, cependant la banque applique des pénalités lorsque le client utilise une partie ou l'intégralité de son découvert autorisé.
-- Une fois le montant crédité sur le compte, le client, peut effectuer autant de retrait qu'il souhaite jusqu'à l' épuisement de son solde ou de l'utilisation totale de son découvert.
+- Une fois le montant crédité sur le compte, le client, peut effectuer autant de retrait qu'il souhaite jusqu'à l'épuisement de son solde ou de l'utilisation totale de son découvert.
 - Le retrait est autorisé uniquement lorsque le solde est suffisant
  - Si le client n'a pas opté pour le découvert, le nouveau solde ne doit pas être négatif.
  - Si le client a opté pour le découvert, le nouveau solde ne doit pas dépasser le montant du découvert autorisé 
@@ -34,10 +34,10 @@ Le montant du découvert est toujours positif.
 ### En individuel et en local
 
 1. Récupérez les travaux de vos collaborateurs depuis les branches dédiées.
-2. Analysez le travail réalisé, effectuez une **revue de code (code review en anglais)** (apportez vos modifications directement sur cette branche). **Utilisez AlgoBox pour effectuer vos modifications**
-3. Pushez et prevenez les autres.
-4. Les autres récupèrent et doivent éventuellement résoudre les conflits et effectuez du *code review*.
-5. Répetez les opérations précédentes tant qu'il y a des modifications.
+2. Analysez le travail réalisé, effectuez une **revue de code** (apportez vos modifications directement sur cette branche). **Utilisez AlgoBox pour effectuer vos modifications**
+3. Pushez et prévenez les autres collaborateurs.
+4. Les autres collaborateurs récupèrent et doivent éventuellement résoudre les conflits et effectuez du *code review*.
+5. Répétez les opérations précédentes tant qu'il y aura des modifications.
 6. **Les branches ne doivent pas avoir des conflits**
 
 ### En équipe
