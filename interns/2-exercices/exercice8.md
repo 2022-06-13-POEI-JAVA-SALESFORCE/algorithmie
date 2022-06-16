@@ -1,8 +1,8 @@
-## Exercice 7 : classes et objets
+## Exercice 8 : classes et objets
 
 ### Modalités
 
-- Utilisez une feuille et un crayon
+- Utilisez le site [diagrams.net](https://app.diagrams.net/)
 - En binome
 
 
