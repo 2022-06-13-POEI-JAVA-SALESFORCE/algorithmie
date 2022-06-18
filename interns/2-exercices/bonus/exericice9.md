@@ -1,4 +1,4 @@
-## Exercice 8 : Nombre de voyelles
+## Exercice 9 : Nombre de voyelles
 
 ### Modalité
 

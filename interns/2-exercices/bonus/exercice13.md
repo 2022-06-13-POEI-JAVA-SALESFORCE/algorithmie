@@ -1,4 +1,4 @@
-## Exercice 9 : Equation de second degré
+## Exercice 13 : Equation de second degré
 
 ### Modalité
 
